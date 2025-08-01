@@ -24,11 +24,6 @@ This Power BI dashboard provides comprehensive insights into retail sales perfor
 2. Interact with slicers and filters to explore sales data across different dimensions like time, product category, and region.
 3. Analyze KPIs and charts to gain insights for strategic decision-making.
 
-## Notes
-
-- Data is sourced from [mention your data source if any].
-- Designed to help business managers quickly understand sales performance and identify areas of improvement.
-
 ---
 
 *Created by Ei Chit Chit Po — Data Analyst*
