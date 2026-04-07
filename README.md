@@ -1,5 +1,7 @@
 # Retail Sales Performance Dashboard
 
+![SuperStores Dashboard Preview](retail_sales_dashboard.jpeg)
+
 This Power BI dashboard provides comprehensive insights into retail sales performance through interactive visualizations and key performance indicators (KPIs).
 
 ## Features
